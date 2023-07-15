@@ -17,8 +17,8 @@
     --pios-glow-hue:        180;
     --pios-glow-intensity:  1;
     --pios-spacing:         1;
-    --pios-accent-hue:      0;
-    --pios-title-text:      "piOS v2.1.01p";
+    --pios-accent-hue:      160;
+    --pios-title-text:      "cActOS v20.03";
 
     --crt-stripe:   block;
     --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
